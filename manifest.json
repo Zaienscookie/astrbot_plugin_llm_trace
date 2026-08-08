@@ -1,0 +1,9 @@
+{
+  "name": "llm_trace",
+  "version": "1.0.0",
+  "description": "LLM 调用溯源：每次对话/LLM 调用成功后，在 AstrBot 日志里记录实际使用的供应商、模型、API key（前8位）与会话来源。",
+  "author": "扎恩斯",
+  "repo": "",
+  "tags": ["日志", "调试", "LLM"],
+  "dependencies": []
+}
